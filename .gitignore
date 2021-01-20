@@ -1,0 +1,7 @@
+# Terraform Downloads and Terraform State
+.terraform/
+*.tfstate*
+.terraform.lock.hcl
+
+# Misc
+.DS_Store
